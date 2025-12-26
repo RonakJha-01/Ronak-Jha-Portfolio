@@ -37,7 +37,7 @@ const projectsData = [
         description:"This personal portfolio website is built using Next.js and styled with Tailwind CSS, offering a fast, modern, and fully responsive interface to showcase projects, skills, and experience. It features server-side rendering for better performance, smooth page transitions, a clean UI, and optimized components designed for a professional developer profile. The site includes detailed project sections, a skills overview, contact options, and dynamic content managed through Next.js routing and components. With SEO-friendly structure, reusable UI elements, and minimal yet impactful visual design, the portfolio effectively highlights my work and technical strengths in modern web development.",
         image:"/images/portfolio-project.png",
         tag:["All",'Web'],
-        gitUrl:"/",
+        gitUrl:"https://github.com/RonakJha-01/Ronak-Jha-Portfolio",
         previewUrl:"/"
     }
 
