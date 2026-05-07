@@ -123,7 +123,7 @@ const TAB_DATA = [
         <ul className='mt-4'>Minor Projects:</ul>
 
         <ul className='list-disc pl-2'>
-          <li>Tracking System</li>
+          <li>Tracking System using React JS</li>
           <li>Text to QR Code generator using JS</li>
           <li>Text to Speech generator using JS</li>
           <li>Weather APP using JS</li>
