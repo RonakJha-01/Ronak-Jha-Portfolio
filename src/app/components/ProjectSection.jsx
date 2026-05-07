@@ -39,6 +39,16 @@ const projectsData = [
         tag:["All",'Web'],
         gitUrl:"https://github.com/RonakJha-01/Ronak-Jha-Portfolio",
         previewUrl:"/"
+    },
+
+    {
+        id:5,
+        title:"LR WebApplication",
+        description:"Developed and commercially deployed a full-stack LR (Logistics Receipt) management software for business clients using React.js, Node.js, Express.js, and MongoDB. The platform is designed with a multi-tenant architecture, allowing multiple clients to securely access the same software while keeping their data completely isolated.Implemented JWT authentication, protected routes, REST APIs, and dynamic PDF generation so each client can generate and download LR PDFs with their own company details. Successfully built and delivered the software for real client usage in logistics operations.",
+        image:"/images/lr-project.png",
+        tag:["All",'Web'],
+        gitUrl:"https://github.com/RonakJha-01/JhaSystems",
+        previewUrl:"https://jha-systems-bills.vercel.app"
     }
 
 ];
