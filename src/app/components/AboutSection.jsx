@@ -112,6 +112,7 @@ const TAB_DATA = [
         <ul className='mt-4'>Major Projects:</ul>
 
         <ul className='list-disc pl-2'>
+        <li>LR WebApplication using MERN Stack</li>  
         <li>AI SAAS APP using PERN Stack</li>
         <li>Food Delivery Website using MERN Stack</li>
         <li>Food Delivery Website Admin Pannel using MERN Stack</li>
@@ -122,6 +123,7 @@ const TAB_DATA = [
         <ul className='mt-4'>Minor Projects:</ul>
 
         <ul className='list-disc pl-2'>
+          <li>Tracking System</li>
           <li>Text to QR Code generator using JS</li>
           <li>Text to Speech generator using JS</li>
           <li>Weather APP using JS</li>
