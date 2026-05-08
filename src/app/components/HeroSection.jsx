@@ -249,7 +249,7 @@ const HeroSection = () => {
                 />
 
                 {/* Ring */}
-                <div className="relative flex h-[250px] w-[250px] sm:h-[280px] sm:w-[280px] md:h-80 md:w-[320px] lg:h-[380px] lg:w-[380px] xl:h-[420px] xl:w-[420px] items-center justify-center rounded-full border-2 border-white/10 bg-linear-to-br from-white/5 to-transparent backdrop-blur-2xl shadow-2xl overflow-hidden">
+                <div className="relative flex h-62.5 w-62.5 sm:h-70 sm:w-70 md:h-80 md:w-[320px] lg:h-95 lg:w-95 xl:h-105 xl:w-105 items-center justify-center rounded-full border-2 border-white/10 bg-linear-to-br from-white/5 to-transparent backdrop-blur-2xl shadow-2xl overflow-hidden">
                   
                   {/* Animated Gradient Border */}
                   <motion.div
@@ -298,7 +298,7 @@ const HeroSection = () => {
                       width={350}
                       height={350}
                       priority
-                      className="object-contain w-[200px] h-[200px] sm:w-60 sm:h-60 md:w-[280px] md:h-[280px] lg:w-[320px] lg:h-80 xl:w-[350px] xl:h-[350px] drop-shadow-[0_20px_60px_rgba(0,212,255,0.35)] transition-all duration-500 rounded-full"
+                      className="object-contain w-50 h-50 sm:w-60 sm:h-60 md:w-70 md:h-70 lg:w-[320px] lg:h-80 xl:w-87.5 xl:h-87.5 drop-shadow-[0_20px_60px_rgba(0,212,255,0.35)] transition-all duration-500 rounded-full"
                     />
                   </motion.div>
                 </div>
